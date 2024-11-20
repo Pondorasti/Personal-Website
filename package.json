@@ -44,7 +44,7 @@
     "@mdx-js/loader": "^2.0.0-rc.2",
     "@next/mdx": "^12.0.10",
     "@palette.dev/browser": "^1.13.3",
-    "@radix-ui/react-tooltip": "^1.0.2",
+    "@radix-ui/react-tooltip": "^1.0.5",
     "@supabase/supabase-js": "^2.2.3",
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/line-clamp": "^0.4.0",
